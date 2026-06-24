@@ -1,7 +1,7 @@
 import React from 'react';
 
 const AboutMe: React.FC = () => {
-  const profilePicUrl = "/yuvaraj.jpg";
+  const profilePicUrl = "./yuvaraj.png";
 
   return (
     <section
